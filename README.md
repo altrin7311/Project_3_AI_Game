@@ -1,5 +1,10 @@
 # EscapeIQ: AI vs Human Pathfinding Game
 
+
+https://github.com/user-attachments/assets/4009eda7-ebf1-4b32-948a-440c632b834e
+
+
+
 EscapeIQ is a Python-based interactive educational game built using the Pygame library. It allows a human player to compete against an AI agent across a 12×12 grid to reach a common goal. The AI uses one of 15 pathfinding algorithms, and the game visually compares all algorithms' performances after each round. It blends gameplay with algorithm visualization for a hands-on learning experience.
 
 ---
